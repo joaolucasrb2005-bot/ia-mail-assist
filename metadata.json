@@ -1,0 +1,6 @@
+{
+  "name": "IA Mail Assist — Automação Inteligente de E-mails",
+  "description": "Sistema de automação inteligente de e-mails com IA generativa para atendimento empresarial, suporte, vendas e pedidos com revisão humana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
